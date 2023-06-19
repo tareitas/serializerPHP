@@ -1,0 +1,29 @@
+{
+    "class": "User",
+    "atributes": [
+        {
+            "name": "name",
+            "value": "carlos",
+            "type": "string"
+        },
+        {
+            "name": "id",
+            "value": 12,
+            "type": "integer"
+        },
+        {
+            "name": "balance",
+            "value": 100.15,
+            "type": "double"
+        },
+        {
+            "name": "isLoggedIn",
+            "value": true,
+            "type": "boolean"
+        },
+        {
+            "name": "example",
+            "type": "null"
+        }
+    ]
+}
